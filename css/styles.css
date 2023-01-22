@@ -209,7 +209,6 @@ body {
 .benefits-list {
   display: flex;
   gap: 24px;
-
 }
 
 /* <!-- Tasts section --> */
@@ -261,7 +260,7 @@ body {
   margin: 0px;
   padding: 0px;
 }
-.name-container{
+.name-container {
   padding-top: 32px;
   padding-bottom: 32px;
 }
